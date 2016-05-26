@@ -1,3 +1,8 @@
+
+This is Hartl's demo_app from http://rails-3-2.railstutorial.org/book/demo_app
+
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
